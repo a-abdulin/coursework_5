@@ -1,6 +1,7 @@
-FROM python:3.8.5
+FROM python:3.11
 
-WORKDIR /code
+WORKDIR /course5
 COPY requirements.txt .
 RUN pip install -r requirements.txt
-COPY help .
+COPY . .
+

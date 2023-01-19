@@ -1,5 +1,4 @@
 from dataclasses import dataclass
-from typing import List
 from random import uniform
 import marshmallow_dataclass
 import marshmallow
