@@ -9,17 +9,17 @@
   },
   {
     "id": 2,
-    "name": "ножик",
-    "min_damage": 1.2,
-    "max_damage": 2.5,
-    "stamina_per_hit": 1.3
+    "name": "лук",
+    "min_damage": 1.7,
+    "max_damage": 3,
+    "stamina_per_hit": 1.5
   },
   {
   "id": 3,
-  "name": "ладошки",
-  "max_damage": 1,
-  "min_damage": 0.5,
-  "stamina_per_hit": 1
+  "name": "бита",
+  "min_damage": 1,
+  "max_damage": 1.5,
+  "stamina_per_hit": 1.2
   }
 ],
   "armors": [
